@@ -4,10 +4,9 @@
     height: 200px;
     color: white;
     text-align: center;
-    margin: 300px;
+    margin: auto;
     padding: 10px;
-    transform: translateY(-60px);
-    transform: translateX(34px);
+  
     
 }
 input {
