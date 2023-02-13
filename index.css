@@ -1,0 +1,31 @@
+.container {
+    background-color: rgb(115, 190, 190);
+    width: 200px;
+    height: 200px;
+    color: white;
+    text-align: center;
+    margin: 300px;
+    padding: 10px;
+    transform: translateY(-60px);
+    transform: translateX(34px);
+    
+}
+input {
+    background-color: rgb(75, 177, 245);
+    color: white;
+    
+}
+.one {
+    background-color: rgb(34, 80, 80);
+    color: white;
+    padding: 10px;
+    box-shadow: 3px 3px 0px rgb(34, 76, 76);
+
+}
+h1 {
+    color: rgba(18, 218, 171, 0.884) ;
+    text-align: center;
+}
+body{
+    background-color: darkgray;
+}
